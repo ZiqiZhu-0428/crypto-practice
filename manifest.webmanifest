@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "密研 · 密码技术学习工作台",
+  "short_name": "密研",
+  "description": "数据留在本机的密码技术学习与刷题工作台",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f8",
+  "theme_color": "#14243b",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
